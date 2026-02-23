@@ -23,7 +23,8 @@
 ## 👨‍💻 About Me
 - 📍 Uzbekistan, Tashkent
 - ⚛️ Front-end Developer (React / Next.js / TypeScript)
-- 📱 React Native — learning
+- 📱 React Native
+- Backend Developer (Express.js)
 - 🔌 Real-time apps: WebSocket / Socket.io
 
 ---
@@ -70,5 +71,4 @@
 
 ### 🔗 Contacts
 - Email: **malikovshahriyor929@gmail.com**
-- Phone: **+998 93 629 55 02**
-- Links: GitHub | LinkedIn | LeetCode | GitLab
+
