@@ -36,9 +36,6 @@ I build web and mobile apps end to end, and I'm working on an offline Uzbek voic
 | Project | What it is | Stack |
 |---|---|---|
 | [**Uzbek Local Voice AI**](https://github.com/malikovshahriyor929/local-ai) | Fully offline Uzbek voice assistant: speech-to-text, a local LLM and text-to-speech on your own machine, plus Mac control by voice. No cloud API. | Python, FastAPI, llama.cpp, Next.js |
-| [**UZMAMF Digital Platform**](https://github.com/malikovshahriyor929/Nafku) · [demo](https://nafku.vercel.app) | Demo platform for the Uzbekistan Motorsport and Motorcycle Federation: athlete licensing, competition entry, payments, results and rankings. Uzbek, Russian and English. | Next.js, TypeScript |
-| [**B2Game Platform**](https://github.com/malikovshahriyor929/b2Game-dash) · [demo](https://b2-game-dash.vercel.app) | Gaming platform dashboard with a separate API and real-time updates. | Next.js, Express, WebSocket, PostgreSQL, Prisma |
-| [**ShipSmart Admin**](https://github.com/malikovshahriyor929/shipsmart) · [demo](https://shipsmart-eta.vercel.app) | Admin dashboard in a pnpm monorepo with shared UI, types and validators. | Next.js, TypeScript, Tailwind, pnpm workspaces |
 | [**Qadam**](https://github.com/malikovshahriyor929/Qadam-mobile-react-native) | Mobile app built with Expo. | React Native, Expo, Tamagui, React Query |
 
 ---
