@@ -45,7 +45,6 @@ Most of my work lives in private repositories, so those projects link to the liv
 | **EditoryPress** | Open access scholarly publishing platform: journals, article submission and publishing. I'm one of the core developers. | Next.js, TypeScript, reCAPTCHA v3 | [editorypress.uz](https://editorypress.uz) |
 | **OneDesk** | Employee and project management platform for the university. Contributor. | Next.js, TypeScript | [onedesk.newuu.uz](https://onedesk.newuu.uz) |
 | **FaceID Exam App** | Native iOS app that verifies exam and admission candidates by face. | Swift, SwiftUI, Vision, Core ML, AVFoundation | |
-| **360 Platform** | Campus activity and student KPI platform with campus, admin and dashboard apps. | Next.js, Turborepo, shadcn/ui | |
 | **NewUU LMS** | Learning management system front end with admin, teacher and student apps, plus a camera service that marks attendance by face. | Next.js, Turborepo, Python, OpenCV, MediaPipe | |
 
 ### 🧪 Own products & experiments
