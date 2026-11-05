@@ -33,10 +33,34 @@ I build web and mobile apps end to end, and I'm working on an offline Uzbek voic
 
 ## 🚀 Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**Uzbek Local Voice AI**](https://github.com/malikovshahriyor929/local-ai) | Fully offline Uzbek voice assistant: speech-to-text, a local LLM and text-to-speech on your own machine, plus Mac control by voice. No cloud API. | Python, FastAPI, llama.cpp, Next.js |
-| [**Qadam**](https://github.com/malikovshahriyor929/Qadam-mobile-react-native) | Mobile app built with Expo. | React Native, Expo, Tamagui, React Query |
+Most of my work lives in private repositories, so those projects link to the live site where there is one.
+
+### 🏛️ Production work (team projects)
+
+| Project | What it is | Stack | Live |
+|---|---|---|---|
+| **Onedesk: career center portal** | Career services platform for New Uzbekistan University, with separate student, company and admin apps. Students track KPIs, join clubs, see a leaderboard and apply to company vacancies. I'm one of the core developers. | Next.js, Turborepo, TypeScript, next-intl (uz/ru/en) | [my.newuu.uz](https://my.newuu.uz) |
+| **OneDesk Student (mobile)** | The mobile app for the same career portal, matching the web app's permissions and API. | React Native, Expo Router, NativeWind, TanStack Query | |
+| **Milliy Dastur** | Education platform for the "Prezident Iqtidorli Farzandlari" program, with five apps for students, teachers, advisors, head consuls and admins. I'm one of the core developers. | Next.js, Turborepo, Redux Toolkit, Socket.io, next-intl | [milliydastur.uz](https://milliydastur.uz) |
+| **EditoryPress** | Open access scholarly publishing platform: journals, article submission and publishing. I'm one of the core developers. | Next.js, TypeScript, reCAPTCHA v3 | [editorypress.uz](https://editorypress.uz) |
+| **OneDesk** | Employee and project management platform for the university. Contributor. | Next.js, TypeScript | [onedesk.newuu.uz](https://onedesk.newuu.uz) |
+| **FaceID Exam App** | Native iOS app that verifies exam and admission candidates by face. | Swift, SwiftUI, Vision, Core ML, AVFoundation | |
+| **360 Platform** | Campus activity and student KPI platform with campus, admin and dashboard apps. | Next.js, Turborepo, shadcn/ui | |
+| **NewUU LMS** | Learning management system front end with admin, teacher and student apps, plus a camera service that marks attendance by face. | Next.js, Turborepo, Python, OpenCV, MediaPipe | |
+
+### 🧪 Own products & experiments
+
+| Project | What it is | Stack | Live |
+|---|---|---|---|
+| **EduCenter OS** | White-label, multi-tenant CRM, LMS and testing platform for education centers (IELTS, SAT, math and more), with web, mobile and API apps. | Next.js, Expo, Express, Prisma, PostgreSQL, Redis, Socket.io | [live instance](https://total-english-shahrisabz.vercel.app) |
+| **Fleet SaaS** | Multi-tenant SaaS for taxi parks on Yandex Fleet: drivers, orders, vehicles, bookkeeping, a driver-retention call center, RBAC and reports. | NestJS, Next.js, Prisma, BullMQ, Redis, Docker | |
+| **AutoShorts** | Local-first app that turns authorized source videos into reviewed, rendered and scheduled YouTube Shorts. | React, Vite, Express, Prisma, pg-boss, Ollama, whisper.cpp, FFmpeg | |
+| [**Uzbek Local Voice AI**](https://github.com/malikovshahriyor929/local-ai) | Fully offline Uzbek voice assistant: speech-to-text, a local LLM and text-to-speech on your own machine, plus Mac control by voice. No cloud API. | Python, FastAPI, llama.cpp, Next.js | |
+| [**VoicePilot Mac**](https://github.com/malikovshahriyor929/aka-vioce) | Native macOS menu bar app for local-first voice and computer control: Ollama planning, Accessibility-based UI control, browser tabs and Spotify. | Swift, Ollama | |
+| **myAudio-Ai** | Local speech-to-text for Uzbek, Russian and English audio and video, with live microphone transcription. Nothing is sent to external services. | Python, Gradio | |
+| [**Qadam**](https://github.com/malikovshahriyor929/Qadam-mobile-react-native) | Mobile app built with Expo. | React Native, Expo, Tamagui, React Query | |
+| **Ember of the Grove** | Storybook action-adventure game: three chapters, melee combat and a boss, with stylized art. | Unreal Engine 5, C++, Python tooling | |
+| [**Top_Down**](https://github.com/malikovshahriyor929/game-jam) | Game jam project. | Unreal Engine 5 | |
 
 ---
 
