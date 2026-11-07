@@ -31,6 +31,16 @@ I build web and mobile apps end to end, and I'm working on an offline Uzbek voic
 
 ---
 
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malikovshahriyor929/malikovshahriyor929/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malikovshahriyor929/malikovshahriyor929/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/malikovshahriyor929/malikovshahriyor929/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 🚀 Featured Projects
 
 Most of my work lives in private repositories, so those projects link to the live site where there is one.
